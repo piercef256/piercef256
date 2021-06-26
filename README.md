@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Pierce
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning more node.js
-- 💞️ I’m looking to collaborate on fun projects!
-- 📫 How to reach me NA
+- 👋 Hi, I’m Pierce.
 
 <!---
 piercef256/piercef256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
